@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Description List
+</title>
+</head>
+<body>
+<p><h3>Different IDEs (Intergrated Development Environments) to develop Java code:</h3></p>
+<dl>
+	<dt><h4>1.NetBeans:</h4></dt>
+ 		<dd>The NetBeans IDE supports development of all Java application types (Java SE, JavaFX, Java ME, web, EJB and mobile applications).</dd>
+	<dt><h4>2.Eclipse:</h4></dt>
+ 		<dd>Its main features include a Windows Builder, integration with Maven, Mylyn, XML editor.</dd>
+	<dt><h4>3.IntelliJ IDEA Community:</h4></dt>
+ 		<dd>It is mainly used for Android app development, Scala, Groovy, Java SE.</dd>
+	<dt><h4>4.Android Studio:</h4><dt>
+    	<dd>Android Studio from Google is mainly designed for developing on the Android Platform.</dd>
+	<dt><h4>5.BlueJ:</h4></dt>
+		<dd>BlueJ is mainly developed for the teaching of object-oriented programming.</dd>
+</dl>
+</body>
+</html>
